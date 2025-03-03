@@ -2,7 +2,7 @@
 
 export default function LandingPage() {
     return (
-        <div>LANDING PAGE</div>
+        <div>RGA LANDING PAGE</div>
     );
 };
 
