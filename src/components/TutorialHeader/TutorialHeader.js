@@ -29,7 +29,7 @@ const TutorialHeader = () => (
           isActive={isSideNavExpanded}
         />
         <Link href="/" passHref legacyBehavior>
-          <HeaderName prefix="IBM">Carbon Tutorial</HeaderName>
+          <HeaderName prefix="IBM">Upload System Configuration</HeaderName>
         </Link>
         <HeaderNavigation aria-label="Carbon Tutorial">
           <Link href="/repos" passHref legacyBehavior>
